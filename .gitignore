@@ -1,0 +1,14 @@
+*.mov
+*.mp4
+*.mp3
+*.wav
+*.m4a
+*.aiff
+*.txt
+!README.md
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+venv/
+*.egg-info/
